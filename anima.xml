@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="3">
+    <sets>
+        <set>
+            <name>ANM</name>
+            <longname>Anima</longname>
+            <settype>Expansion</settype>
+            <releasedate>2019-1-2</releasedate>
+        </set>
+    </sets>
+    <cards>
+        <card>
+            <name>3rd Magister of Alden</name>
+            <set rarity="Rare" muId="955">ANM</set>
+            <text>PLACEHOLDER</text>
+        </card>
+        <card>
+            <name>3rd Magister Rosebelle</name>
+            <set rarity="Rare" muId="955">ANM</set>
+            <text>PLACEHOLDER</text>
+        </card>
+        <card>
+            <name>Aemon's Phalanx</name>
+            <set rarity="Rare" muId="955">ANM</set>
+            <text>PLACEHOLDER</text>
+        </card>
+        <card>
+            <name>Aeschylus, Uncursed</name>
+            <set rarity="Rare" muId="955">ANM</set>
+            <text>PLACEHOLDER</text>
+        </card>
+        <card>
+            <name>Aldenian Choregos</name>
+            <set rarity="Rare" muId="955">ANM</set>
+            <text>PLACEHOLDER</text>
+        </card>
+        <card>
+            <name>Aldenian Eagle</name>
+            <set rarity="Rare" muId="955">ANM</set>
+            <text>PLACEHOLDER</text>
+        </card>
+        <card>
+            <name>Aldenian Sapper</name>
+            <set rarity="Rare" muId="955">ANM</set>
+            <text>PLACEHOLDER</text>
+        </card>
+        <card>
+            <name>Argent Agent, Tantalus</name>
+            <set rarity="Rare" muId="955">ANM</set>
+            <text>PLACEHOLDER</text>
+        </card>
+        <card>
+            <name>Aspidian Hoplite</name>
+            <set rarity="Rare" muId="955">ANM</set>
+            <text>PLACEHOLDER</text>
+        </card>
+        <card>
+            <name>Blood Gulch Gang</name>
+            <set rarity="Rare" muId="955">ANM</set>
+            <text>PLACEHOLDER</text>
+        </card>
+        <card>
+            <name>Chagrin Spawn Raider</name>
+            <set rarity="Rare" muId="955">ANM</set>
+            <text>PLACEHOLDER</text>
+        </card>
+        <card>
+            <name>Cult of the Deep Devotee</name>
+            <set rarity="Rare" muId="955">ANM</set>
+            <text>PLACEHOLDER</text>
+        </card>
+        <card>
+            <name>Darion D'Lere</name>
+            <set rarity="Rare" muId="955">ANM</set>
+            <text>PLACEHOLDER</text>
+        </card>
+        <card>
+            <name>Destruction of Pangloss</name>
+            <set rarity="Rare" muId="955">ANM</set>
+            <text>PLACEHOLDER</text>
+        </card>
+        <card>
+            <name>Dislocation Rune</name>
+            <set rarity="Rare" muId="955">ANM</set>
+            <text>PLACEHOLDER</text>
+        </card>
+        <card>
+            <name>Divine Oracle Ekata</name>
+            <set rarity="Rare" muId="955">ANM</set>
+            <text>PLACEHOLDER</text>
+        </card>
+        <card>
+            <name>Empousa's Apple</name>
+            <set rarity="Rare" muId="955">ANM</set>
+            <text>PLACEHOLDER</text>
+        </card>
+        <card>
+            <name>Fellenia's Garnet</name>
+            <set rarity="Rare" muId="955">ANM</set>
+            <text>PLACEHOLDER</text>
+        </card>
+        <card>
+            <name>Flail Snail</name>
+            <set rarity="Rare" muId="955">ANM</set>
+            <text>PLACEHOLDER</text>
+        </card>
+        <card>
+            <name>Grung Slaver</name>
+            <set rarity="Rare" muId="955">ANM</set>
+            <text>PLACEHOLDER</text>
+        </card>
+        <card>
+            <name>Harbinger Gluug</name>
+            <set rarity="Rare" muId="955">ANM</set>
+            <text>PLACEHOLDER</text>
+        </card>
+        <card>
+            <name>Helen Isokos</name>
+            <set rarity="Rare" muId="955">ANM</set>
+            <text>PLACEHOLDER</text>
+        </card>
+        <card>
+            <name>Hester Telveni</name>
+            <set rarity="Rare" muId="955">ANM</set>
+            <text>PLACEHOLDER</text>
+        </card>
+        <card>
+            <name>Hungering Frenzy</name>
+            <set rarity="Rare" muId="955">ANM</set>
+            <text>PLACEHOLDER</text>
+        </card>
+        <card>
+            <name>Jedoga</name>
+            <set rarity="Rare" muId="955">ANM</set>
+            <text>PLACEHOLDER</text>
+        </card>
+        <card>
+            <name>Kah'man</name>
+            <set rarity="Rare" muId="955">ANM</set>
+            <text>PLACEHOLDER</text>
+        </card>
+        <card>
+            <name>Legumancer's Tome</name>
+            <set rarity="Rare" muId="955">ANM</set>
+            <text>PLACEHOLDER</text>
+        </card>
+        <card>
+            <name>Lesser Oblex</name>
+            <set rarity="Rare" muId="955">ANM</set>
+            <text>PLACEHOLDER</text>
+        </card>
+        <card>
+            <name>Maenad Grove Tender</name>
+            <set rarity="Rare" muId="955">ANM</set>
+            <text>PLACEHOLDER</text>
+        </card>
+        <card>
+            <name>Mantis Telvin Karkan</name>
+            <set rarity="Rare" muId="955">ANM</set>
+            <text>PLACEHOLDER</text>
+        </card>
+        <card>
+            <name>Minotaur Wanderer</name>
+            <set rarity="Rare" muId="955">ANM</set>
+            <text>PLACEHOLDER</text>
+        </card>
+        <card>
+            <name>Mud Mephit</name>
+            <set rarity="Rare" muId="955">ANM</set>
+            <text>PLACEHOLDER</text>
+        </card>
+        <card>
+            <name>Novice Telemancy</name>
+            <set rarity="Rare" muId="955">ANM</set>
+            <text>PLACEHOLDER</text>
+        </card>
+        <card>
+            <name>Pinewoods Shifter</name>
+            <set rarity="Rare" muId="955">ANM</set>
+            <text>PLACEHOLDER</text>
+        </card>
+        <card>
+            <name>Piraenas Socialites</name>
+            <set rarity="Rare" muId="955">ANM</set>
+            <text>PLACEHOLDER</text>
+        </card>
+        <card>
+            <name>Potion of Mindmeld</name>
+            <set rarity="Rare" muId="955">ANM</set>
+            <text>PLACEHOLDER</text>
+        </card>
+        <card>
+            <name>Reddak of Exsilium</name>
+            <set rarity="Rare" muId="955">ANM</set>
+            <text>PLACEHOLDER</text>
+        </card>
+        <card>
+            <name>Rudimentary Zevian Golem</name>
+            <set rarity="Rare" muId="955">ANM</set>
+            <text>PLACEHOLDER</text>
+        </card>
+        <card>
+            <name>Sarthian Wastelander</name>
+            <set rarity="Rare" muId="955">ANM</set>
+            <text>PLACEHOLDER</text>
+        </card>
+        <card>
+            <name>Sorrows Sewers Ooze</name>
+            <set rarity="Rare" muId="955">ANM</set>
+            <text>PLACEHOLDER</text>
+        </card>
+        <card>
+            <name>Spirit Owl</name>
+            <set rarity="Rare" muId="955">ANM</set>
+            <text>PLACEHOLDER</text>
+        </card>
+        <card>
+            <name>Thaelian Archaeologist</name>
+            <set rarity="Rare" muId="955">ANM</set>
+            <text>PLACEHOLDER</text>
+        </card>
+        <card>
+            <name>The Raid on Riverbottom</name>
+            <set rarity="Rare" muId="955">ANM</set>
+            <text>PLACEHOLDER</text>
+        </card>
+        <card>
+            <name>Themeter of Kek'Anon</name>
+            <set rarity="Rare" muId="955">ANM</set>
+            <text>PLACEHOLDER</text>
+        </card>
+        <card>
+            <name>Tiefling Swashbuckler</name>
+            <set rarity="Rare" muId="955">ANM</set>
+            <text>PLACEHOLDER</text>
+        </card>
+        <card>
+            <name>Unchained Gang</name>
+            <set rarity="Rare" muId="955">ANM</set>
+            <text>PLACEHOLDER</text>
+        </card>
+        <card>
+            <name>Young Grell</name>
+            <set rarity="Rare" muId="955">ANM</set>
+            <text>PLACEHOLDER</text>
+        </card>
+        <card>
+            <name>Young Owlbear</name>
+            <set rarity="Rare" muId="955">ANM</set>
+            <text>PLACEHOLDER</text>
+        </card>
+        <card>
+            <name>Zevian Fire Salt</name>
+            <set rarity="Rare" muId="955">ANM</set>
+            <text>PLACEHOLDER</text>
+        </card>
+    </cards>
+</cockatrice_carddatabase>
