@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/Cockatrice/Cockatrice/master/doc/cards.xsd">
+    <cards>
+        <card> <name>_LG_</name> <set>ANM</set> </card>
+        <card> <name>_NG_</name> <set>ANM</set> </card>
+        <card> <name>_CG_</name> <set>ANM</set> </card>
+        <card> <name>_LN_</name> <set>ANM</set> </card>
+        <card> <name>_TN_</name> <set>ANM</set> </card>
+        <card> <name>_CN_</name> <set>ANM</set> </card>
+        <card> <name>_LE_</name> <set>ANM</set> </card>
+        <card> <name>_NE_</name> <set>ANM</set> </card>
+        <card> <name>_CE_</name> <set>ANM</set> </card>
+    </cards>
+</cockatrice_carddatabase>
